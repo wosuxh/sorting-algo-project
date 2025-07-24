@@ -8,7 +8,7 @@
 
 ## 🌐 Live Website
 
-🔗 Check it out here: [https://wosuxh.github.io/sorting-algo-project/](https://wosuxh.github.io/sorting-algo-project/)
+🔗 Check it out [here](https://wosuxh.github.io/sorting-algo-project/)
 
 ---
 

@@ -1,10 +1,27 @@
-# [Sorting](https://akshataggarwal14.github.io/Sorting-Algorithms/ "Live website")
+# [Sorting](https://wosuxh.github.io/sorting-algo-project/ 'Live website')
 
-This project is a sort algorithm visualiser made using [p5.js](https://p5js.org/)
-Check it out [Here](https://akshataggarwal14.github.io/Sorting-Algorithms/)!
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://wosuxh.github.io/sorting-algo-project/)
 
-### Technologies used: 
+> A dynamic and interactive sorting algorithm visualizer built using [p5.js](https://p5js.org/), helping users understand how various sorting algorithms work in real-time through engaging visual animations.
 
-+ HTML5
-+ CSS3
-+ P5.js
+---
+
+## 🌐 Live Website
+
+🔗 Check it out here: [https://wosuxh.github.io/sorting-algo-project/](https://wosuxh.github.io/sorting-algo-project/)
+
+---
+
+## 📌 Features
+
+- 🎨 Real-time visualization of sorting processes
+- 🕹️ Adjustable controls (array size, sorting speed)
+- 🔁 Reset and re-sort with different algorithms
+- 🧠 Educational and beginner-friendly interface
+
+---
+
+## 🧰 Technologies Used
+
+- **HTML5**
+- **[p5.js](https://p5js.org/)**
